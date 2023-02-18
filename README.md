@@ -2,4 +2,7 @@
 
 Status do projeto: Em desenvolvimento
 
-projeto de teste, com o objetivo de connhecer melhor o funcionamento do github
+
+![Github](https://user-images.githubusercontent.com/107317234/219871578-5f60a89d-cb83-451f-ac0c-7cb2c7b27b9b.png)
+
+projeto de teste, com o objetivo de conhecer melhor o funcionamento do github

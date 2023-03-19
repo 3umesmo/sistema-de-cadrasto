@@ -8,3 +8,6 @@ Status do projeto: Em desenvolvimento
 projeto de teste, com o objetivo de conhecer melhor o funcionamento do github
 
 Para rodar projeto na sua maquina, digite node app.js
+
+
+OBS: não liguem pros palavriados nesse projeto, sei que não se deve fazer isso em um projeto sério!!!

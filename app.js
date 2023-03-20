@@ -1,2 +1,9 @@
 console.log="cu"
-alert="tangamandápio"
+class funcoes{
+
+    cidade(){
+        alert("tangamandápio")
+    }
+}
+
+var link=new funcoes()
